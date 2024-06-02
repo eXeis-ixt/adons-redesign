@@ -20,7 +20,7 @@
 
 
 
-    <main class=" cotnainer">
+    <main class=" cotnainer bg">
 
        @include('components.layouts.components.navbar')
 
